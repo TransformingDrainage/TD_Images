@@ -1,11 +1,10 @@
 # TD_Images 
 <dl>
-<dd>Images related to TD project, including its logo, photos from different activities and others. </dd>
+  <dd>Images related to TD project, including its logo, photos from different activities and others. </dd>
 
-<dt>TD logo .png </dt>
-<img src="https://github.com/TransformingDrainage/TD_Images/blob/master/Transforming_Drainage.png"
-alt="IMAGE ALT TEXT HERE" width="250" border="1" />
+  <h3>TD logo .png </h3>
+  <img src="https://github.com/TransformingDrainage/TD_Images/blob/master/Transforming_Drainage.png" alt="IMAGE ALT TEXT HERE" width="250" border="1" />
 
-<h3>TD logo .jpg </h3>
-<img src="https://github.com/TransformingDrainage/TD_Images/blob/master/Transforming_Drainage.jpg" width="250" border="1" />
+  <h3>TD logo .jpg </h3>
+  <img src="https://github.com/TransformingDrainage/TD_Images/blob/master/Transforming_Drainage.jpg" width="250" border="1" />
 </dl>
